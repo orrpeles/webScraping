@@ -1,5 +1,5 @@
 #!/bin/python
-# log into reddit from the background
+# log into reddit with selenium
 
 import selenium
 from selenium import webdriver
